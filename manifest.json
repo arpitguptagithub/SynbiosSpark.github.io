@@ -1,6 +1,6 @@
 {
-    "name": "Synbio Spark",
-    "short_name": "Synbio Spark",
+    "name": "buttons",
+    "short_name": "buttons",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
